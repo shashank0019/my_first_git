@@ -1,4 +1,5 @@
 # my_first_git
+<<<<<<< HEAD
 
 A minimal starter repository created in VS Code.
 
@@ -28,3 +29,6 @@ the king
 
 ## the one
 the man
+=======
+this is repo for github
+>>>>>>> cb3f67bd5fc9fe9510529b28672c21ab0289d9ff
